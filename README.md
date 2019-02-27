@@ -1,2 +1,2 @@
-# gaussian-python
+# Gaussian python
 Gaussian elimination using python
